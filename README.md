@@ -1,0 +1,1 @@
+# Data-migration-from-on-premises-to-Azure-Synapse-using-Polybase
